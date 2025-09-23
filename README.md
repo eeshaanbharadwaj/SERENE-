@@ -1,4 +1,4 @@
-# Serene - Mental Health Support Portal(Prototype)
+# Serene - Mental Health Support Portal(Prototype) 
 
 A comprehensive web application designed to support patients living with bipolar disorder and borderline personality disorder (BPD) and the doctors treating them.
 
